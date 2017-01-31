@@ -34,10 +34,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.1767767"
-     inkscape:cx="434.71061"
-     inkscape:cy="-494.20717"
+     inkscape:cx="228.15176"
+     inkscape:cy="-284.72822"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer9"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="947"
@@ -61,9 +61,10 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Fondo">
+     inkscape:label="Fondo"
+     sodipodi:insensitive="true">
     <rect
-       style="fill:#782167;fill-opacity:1;stroke:none"
+       style="fill:#67004e;fill-opacity:1;stroke:none"
        id="rect5271"
        width="3748.4512"
        height="3029.2979"
@@ -4058,18 +4059,28 @@
          y="1315.4059"
          id="tspan5775"
          style="font-size:500px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#37c8ab;fill-opacity:1;font-family:Your Fear;-inkscape-font-specification:Your Fear Bold">Disenos Digitales</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:42.69417953px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#37c8ab;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-857.31641"
-       y="1881.3754"
-       id="text5779"
-       sodipodi:linespacing="125%"
-       transform="scale(0.93689584,1.0673545)"><tspan
-         sodipodi:role="line"
-         id="tspan5781"
-         x="-857.31641"
+    <g
+       id="g5787"
+       transform="translate(-16.970562,5.6568542)">
+      <text
+         transform="scale(0.93689584,1.0673545)"
+         sodipodi:linespacing="125%"
+         id="text5779"
          y="1881.3754"
-         style="font-size:426.94180298px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#37c8ab;fill-opacity:1;font-family:Signarita Zhai;-inkscape-font-specification:Signarita Zhai">Yimilan</tspan></text>
+         x="-857.31641"
+         style="font-size:42.69417953px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#37c8ab;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:426.94180298px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#37c8ab;fill-opacity:1;font-family:Signarita Zhai;-inkscape-font-specification:Signarita Zhai"
+           y="1881.3754"
+           x="-857.31641"
+           id="tspan5781"
+           sodipodi:role="line">Yimilan</tspan></text>
+      <path
+         sodipodi:nodetypes="cscc"
+         inkscape:connector-curvature="0"
+         id="path5783"
+         d="m 9.5655212,1920.2022 c 8.7019148,0.2659 -3.2234,10.6578 5.9446438,9.341 C 502.97445,1859.5277 1111.0887,1962.6746 1667.9062,2064.324 1145.0421,1926.5452 321.87491,1847.5169 9.5655212,1920.2022 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#37c8ab;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    </g>
   </g>
 </svg>
